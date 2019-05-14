@@ -1,0 +1,15 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "standard-react"],
+  "rules": {
+    "import/extensions": 0,
+    "react/no-unknown-property": 0,
+    "import/no-unresolved": 0,
+    "no-var": "error",
+    "no-control-regex": 0,
+    "indent" : ["error", 2, { "SwitchCase": 1, "ignoredNodes": ["JSXElement *"] }]
+  },
+  "env": {
+    "jest": true
+  }
+}
