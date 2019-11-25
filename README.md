@@ -1,4 +1,6 @@
 
+[![Watch on GitHub](https://img.shields.io/github/watchers/jonsn0w/hyde.svg?style=social)](https://github.com/jonsn0w/Hyde/watchers)
+
 Live demo
 # [http://abgewaschen.tk/boggle](http://abgewaschen.tk/boggle)
 
